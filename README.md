@@ -1,5 +1,7 @@
 # Projet d'Application pour la Santé Publique
 
+<img src="https://user.oc-static.com/upload/2019/02/23/15509423491012_logo.png" />
+
 ## Contexte
 L'agence "Santé publique France" a lancé un appel à projets pour développer des applications innovantes en lien avec l'alimentation. Ce projet vise à proposer une application qui utilise les données d'Open Food Facts pour aider les consommateurs à faire des choix alimentaires plus sains.
 
